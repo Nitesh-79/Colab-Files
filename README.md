@@ -5,10 +5,11 @@ The goal is to reduce unwanted messages and improve communication filtering syst
 
 **Technologies Used
 **
-Python
-Pandas
-NumPy
-Scikit-learn
-NLTK
-Matplotlib
+Python,
+Pandas,
+NumPy,
+Machine Learning,
+Scikit-learn,
+NLP,
+Matplotlib,
 Seaborn
